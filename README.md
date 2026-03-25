@@ -1,0 +1,1 @@
+🧮 Vivo-inspired calculator with neumorphism design. Features dark/light mode, scientific functions, history panel, and smooth animations. Mobile-first responsive design. Pure HTML/CSS/JS - no dependencies. Premium UI/UX with touch-friendly interface, swipe gestures, and full keyboard support.
